@@ -1,0 +1,59 @@
+<formalpara xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0">
+	<title>528</title>
+	<para>
+		Jm allgemeinen können der Natur der Sache nach in der Sprache der Redner und Geschicht- schreiber nur selten vollständig und rein ausgeführte Syllogismen vorkommen. Die Stelle der- selben vertreten vielmehr die Enthymeme (ἐνθύμημα = beherzigmswektek Gedanke), d. h. ver- iürzte oder unvollständige logische Schlüsse, in denen weder alle Glieder eines Syllo- gismus vollständig enthalten - (es fehlt bald die Propositio maior, bald die Pr. minor, bald die Conclusio) —, noch die Reihenfolge derselben beobachtet, noch endlich die bündige Form des Dialektiiers angewendet zu sein braucht. Demnach sind Enthymeme solgende Schlüsse: „Gaius ist ein Mensch, also ist er sterblich«; -- »Alle Menschen sind sterblich, also ist es auch Gaius“; —- »Gott ist allwissend, soiglich ist ihm nichts verborgen«; —- »Der Mörder verdient den m, und du hast gemordet«; — »Ist etwa das Geld ein Gut, das doch jeder schlecht anwenden kann P« —- Jm besondern versteht man aber unter Enthymem die Folgerung aus Ent- gegengesetztem (Argumentum ex eontrariis), die namentlich in zwei außerordentlich be- liebten Formen erscheint, nämlich: l) in der an eine Behauptung gesiigten Gegensra ge mit an (of. die Beispiele in 408) und 2) in der direkten Verbindung zweier gegenübergestellten Sätze. Das Wesen dieser letztern Schlußart, welche vorzugsweise Enthymem genant wird, besteht darin, daß von den beiden miteinander zusammengestellten Sätzen der erste eine allgemein zugestandene Thatsache enthalten muß, aus deren Analogie die Gültigkeit des zweiten, zu be- weisenden Sahes sich dem gefunden Menschenverstande von selbst ergiebt. Wir Deutschen ge- brauchen in diesem Falle meistens das einfache »und« oder auch »wilhrend« im Sinne von »du doch« (of. 362, Anm. 7). Zur Beranschaulichung der verschiedenen Formen, in welchen das Enthymem vorkommt, mde das Beispiel himen: »Dies sollten Männer nicht können, während Knaben es gekannt haben?«
+		<table>
+			<tgroup cols="2" align="left" colsep="1" rowsep="1">
+				<tbody>
+					<row>
+						<entry morerows="3" valign="middle">
+							a. Prämisse dem Schlußsatze subordiniert:
+						</entry>
+					</row>
+					<row>
+						<entry>
+							Quod pueri potuerunt, viri non poterunt?
+						</entry>
+					</row>
+					<row>
+						<entry>
+							Cum pueri hoc potuerint, viri non poterunt?
+						</entry>
+					</row>
+					<row>
+						<entry>
+							Si pueri hoc potuerunt, quanto magis viri poterunt?
+						</entry>
+					</row>
+					<row>
+						<entry morerows="3" valign="middle">
+							b. Prämisse dem Schlußsatze koordiniert:
+						</entry>
+					</row>
+					<row>
+						<entry>
+							Pueri hoc potuerunt: viri non poterunt?
+						</entry>
+					</row>
+					<row>
+						<entry>
+							An pueri hoc potuerunt: viri non poterunt?
+						</entry>
+					</row>
+					<row>
+						<entry>
+							Ergo pueri hoc potuerunt: viri non poterunt?
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		<note>
+			<title>Anm.</title>
+			<para>
+				Um dem Enthymem mehr Nachdruck zu geben, wird demselben oft das fragende quid? vorausgeschickt (cf. 410). – Im Schlußsatze kommt oft die in 488 besprochene Ausdrucksweise  zur Anwendung.
+			</para>
+		</note>
+		1) Cum liberi parentibus gratiam referre magnopere studeant, cives patriae, communi omnium parenti, fortunas suas condonare dubitabunt ? 2) Quid? bestiae brutae hominum prudentia ad quandam rationis simili· tudinem virtutisque imaginem informari possunt: homines ipsi ratione praediti naturam non poterunt vincere? 3) Ergo venandi studium ac voluptas homines per nives ac pruinas in montes silvasque rapit: nos belh· necessitatibus eam patientiam non adhibebimus, quam vel lusus et voluptas elicere solet? 4) Legati quod erant appellati superbius, pa- tres vestri Corinthum, totius Graeciae lumen, extinctum esse voluerunt: vos Mithridatem inultum esse patiemini, qui legatum populi Romani excruciatum necavit? 5) Quid? cum pueros Lacedaemone, adulescentes Olympiae videris excipientes gravissimas plagas et ferentes silentio: si te „forte dolor aliqui pervellerit, tu exclamabis ut mulier? 6) Si maiores nostri, nulla ipsi iniuria lacessiti, propter socios cum Antiocho bella gesserunt: quanto maiore vos studio convenit iniuriis provocatos sociorum salutem una cum imperii vestri dignitate defendere?
+	</para>
+</formalpara>

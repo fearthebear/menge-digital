@@ -1,0 +1,714 @@
+<chapter xmlns="http://docbook.org/ns/docbook"
+      xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0">
+	<title>Erste Hälfte – Fragen</title>
+	<section>
+		<title>A. Syntaxis convenientiae.</title>
+		<section>
+			<title>1. Subjekt und Prädikat</title>
+			<xi:include href="fragen/f-001.xml" />
+			<xi:include href="fragen/f-002.xml" />
+			<xi:include href="fragen/f-003.xml" />
+			<xi:include href="fragen/f-004.xml" />
+			<xi:include href="fragen/f-005.xml" />
+			<xi:include href="fragen/f-006.xml" />
+			<xi:include href="fragen/f-007.xml" />
+			<xi:include href="fragen/f-008.xml" />
+			<xi:include href="fragen/f-009.xml" />		
+		</section>
+		<section>
+			<title>2. Attribut und Apposition</title>
+			<xi:include href="fragen/f-010.xml" />
+			<xi:include href="fragen/f-011.xml" />
+			<xi:include href="fragen/f-012.xml" />
+			<xi:include href="fragen/f-013.xml" />
+			<xi:include href="fragen/f-014.xml" />
+			<xi:include href="fragen/f-015.xml" />
+			<xi:include href="fragen/f-016.xml" />
+			<xi:include href="fragen/f-017.xml" />
+			<xi:include href="fragen/f-018.xml" />
+			<xi:include href="fragen/f-019.xml" />
+			<xi:include href="fragen/f-020.xml" />
+			<xi:include href="fragen/f-021.xml" />
+			<xi:include href="fragen/f-022.xml" />
+		</section>
+		<section>
+			<title>3. Übereinstimmung des Pronomens.</title>
+			<xi:include href="fragen/f-023.xml" />
+			<xi:include href="fragen/f-024.xml" />
+		</section>
+	</section>
+	<section>
+		<title>B. Vom Gebrauch der Kasus.</title>
+		<section>
+			<title>1. Nominativ und Vokativ (Casus recti).</title>
+			<xi:include href="fragen/f-025.xml" />
+			<xi:include href="fragen/f-026.xml" />
+			<xi:include href="fragen/f-027.xml" />
+			<xi:include href="fragen/f-028.xml" />
+		</section>
+		<section>
+			<title>Casus obliqui – 2. Accusativ.</title>
+			<xi:include href="fragen/f-029.xml" />
+			<xi:include href="fragen/f-030.xml" />
+			<xi:include href="fragen/f-031.xml" />
+			<xi:include href="fragen/f-032.xml" />
+			<xi:include href="fragen/f-033.xml" />
+			<xi:include href="fragen/f-034.xml" />
+			<xi:include href="fragen/f-035.xml" />
+			<xi:include href="fragen/f-036.xml" />
+			<xi:include href="fragen/f-037.xml" />
+			<xi:include href="fragen/f-038.xml" />
+			<xi:include href="fragen/f-039.xml" />
+			<xi:include href="fragen/f-040.xml" />
+			<xi:include href="fragen/f-041.xml" />
+			<xi:include href="fragen/f-042.xml" />
+			<xi:include href="fragen/f-043.xml" />
+			<xi:include href="fragen/f-044.xml" />
+			<xi:include href="fragen/f-045.xml" />
+			<xi:include href="fragen/f-046.xml" />
+			<xi:include href="fragen/f-047.xml" />
+			<xi:include href="fragen/f-048.xml" />
+		</section>
+		<section>
+			<title>3. Dativ.</title>
+			<xi:include href="fragen/f-049.xml" />
+			<xi:include href="fragen/f-050.xml" />
+			<xi:include href="fragen/f-051.xml" />
+			<xi:include href="fragen/f-052.xml" />
+			<xi:include href="fragen/f-053.xml" />
+			<xi:include href="fragen/f-054.xml" />
+			<xi:include href="fragen/f-055.xml" />
+			<xi:include href="fragen/f-056.xml" />
+			<xi:include href="fragen/f-057.xml" />
+			<!-- Nr. 58 fehlt im Original! -->
+			<xi:include href="fragen/f-059.xml" />
+			<xi:include href="fragen/f-060.xml" />
+			<xi:include href="fragen/f-061.xml" />
+			<xi:include href="fragen/f-062.xml" />
+			<xi:include href="fragen/f-063.xml" />
+			<xi:include href="fragen/f-064.xml" />
+			<xi:include href="fragen/f-065.xml" />
+			<xi:include href="fragen/f-066.xml" />
+			<xi:include href="fragen/f-067.xml" />
+		</section>
+		<section>
+			<title>4. Genitiv.</title>
+			<xi:include href="fragen/f-068.xml" />
+			<xi:include href="fragen/f-069.xml" />
+			<xi:include href="fragen/f-070.xml" />
+			<xi:include href="fragen/f-071.xml" />
+			<xi:include href="fragen/f-072.xml" />
+			<xi:include href="fragen/f-073.xml" />
+			<xi:include href="fragen/f-074.xml" />
+			<xi:include href="fragen/f-075.xml" />
+			<xi:include href="fragen/f-076.xml" />
+			<xi:include href="fragen/f-077.xml" />
+			<xi:include href="fragen/f-078.xml" />
+			<xi:include href="fragen/f-079.xml" />
+			<xi:include href="fragen/f-080.xml" />
+			<xi:include href="fragen/f-081.xml" />
+			<xi:include href="fragen/f-082.xml" />
+			<xi:include href="fragen/f-083.xml" />
+			<xi:include href="fragen/f-084.xml" />
+			<xi:include href="fragen/f-085.xml" />
+			<xi:include href="fragen/f-086.xml" />
+			<xi:include href="fragen/f-087.xml" />
+			<xi:include href="fragen/f-088.xml" />
+			<xi:include href="fragen/f-089.xml" />
+			<xi:include href="fragen/f-090.xml" />
+			<xi:include href="fragen/f-091.xml" />
+			<xi:include href="fragen/f-092.xml" />
+			<xi:include href="fragen/f-093.xml" />
+		</section>
+		<section>
+			<title>5. Ablativ.</title>
+			<xi:include href="fragen/f-094.xml" />
+			<xi:include href="fragen/f-095.xml" />
+			<xi:include href="fragen/f-096.xml" />
+			<xi:include href="fragen/f-097.xml" />
+			<xi:include href="fragen/f-098.xml" />
+			<xi:include href="fragen/f-099.xml" />
+			<xi:include href="fragen/f-100.xml" />
+			<xi:include href="fragen/f-101.xml" />
+			<xi:include href="fragen/f-102.xml" />
+			<xi:include href="fragen/f-103.xml" />
+			<xi:include href="fragen/f-104.xml" />
+			<xi:include href="fragen/f-105.xml" />
+			<xi:include href="fragen/f-106.xml" />
+			<xi:include href="fragen/f-107.xml" />
+			<xi:include href="fragen/f-108.xml" />
+			<xi:include href="fragen/f-109.xml" />
+			<xi:include href="fragen/f-110.xml" />
+		</section>
+	</section>
+	<section>
+		<title>C. Orts-, Raum- und Zeitbestimmungen. Präpositionen</title>
+		<section>
+			<title>1. Orts- und Raumbestimmungen.</title>
+			<xi:include href="fragen/f-111.xml" />
+			<xi:include href="fragen/f-112.xml" />
+			<xi:include href="fragen/f-113.xml" />
+			<xi:include href="fragen/f-114.xml" />
+			<xi:include href="fragen/f-115.xml" />
+			<xi:include href="fragen/f-116.xml" />
+			<xi:include href="fragen/f-117.xml" />
+			<xi:include href="fragen/f-118.xml" />
+			<xi:include href="fragen/f-119.xml" />
+			<xi:include href="fragen/f-120.xml" />
+			<xi:include href="fragen/f-121.xml" />
+			<xi:include href="fragen/f-122.xml" />
+		</section>
+		<section>
+			<title>2. Zeitbestimmungen.</title>
+			<xi:include href="fragen/f-123.xml" />
+			<xi:include href="fragen/f-124.xml" />
+			<xi:include href="fragen/f-125.xml" />
+			<xi:include href="fragen/f-126.xml" />
+			<xi:include href="fragen/f-127.xml" />
+		</section>
+		<section>
+			<title>3. Präpositionen</title>
+			<xi:include href="fragen/f-128.xml" />
+			<xi:include href="fragen/f-129.xml" />
+			<xi:include href="fragen/f-130.xml" />
+			<xi:include href="fragen/f-131.xml" />
+			<xi:include href="fragen/f-132.xml" />
+			<xi:include href="fragen/f-133.xml" />
+			<xi:include href="fragen/f-134.xml" />
+			<xi:include href="fragen/f-135.xml" />
+			<xi:include href="fragen/f-136.xml" />
+			<xi:include href="fragen/f-137.xml" />
+			<xi:include href="fragen/f-138.xml" />
+			<xi:include href="fragen/f-139.xml" />
+			<xi:include href="fragen/f-140.xml" />
+			<xi:include href="fragen/f-141.xml" />
+			<xi:include href="fragen/f-142.xml" />
+			<xi:include href="fragen/f-143.xml" />
+			<xi:include href="fragen/f-144.xml" />
+			<xi:include href="fragen/f-145.xml" />
+			<xi:include href="fragen/f-146.xml" />
+			<xi:include href="fragen/f-147.xml" />
+			<xi:include href="fragen/f-148.xml" />
+			<xi:include href="fragen/f-149.xml" />
+			<xi:include href="fragen/f-150.xml" />
+			<xi:include href="fragen/f-151.xml" />
+			<xi:include href="fragen/f-152.xml" />
+			<xi:include href="fragen/f-153.xml" />
+			<xi:include href="fragen/f-154.xml" />
+			<xi:include href="fragen/f-154b.xml" />
+		</section>
+	</section>
+	<section>
+		<title>D. Eigentümlichkeiten im Gebrauch der Substantiva und Adjektiva.</title>
+		<section>
+			<title>1. Singular und Plural</title>
+			<xi:include href="fragen/f-155.xml" />
+			<xi:include href="fragen/f-156.xml" />
+			<xi:include href="fragen/f-157.xml" />
+			<xi:include href="fragen/f-158.xml" />
+			<xi:include href="fragen/f-159.xml" />
+			<xi:include href="fragen/f-160.xml" />
+		</section>
+		<section>
+			<title>2. Substantiva</title>
+			<xi:include href="fragen/f-161.xml" />
+			<xi:include href="fragen/f-162.xml" />
+			<xi:include href="fragen/f-163.xml" />
+			<xi:include href="fragen/f-164.xml" />
+			<xi:include href="fragen/f-165.xml" />
+			<xi:include href="fragen/f-166.xml" />
+			<xi:include href="fragen/f-167.xml" />
+			<xi:include href="fragen/f-168.xml" />
+			<xi:include href="fragen/f-169.xml" />
+			<xi:include href="fragen/f-170.xml" />
+			<xi:include href="fragen/f-170b.xml" />
+			<xi:include href="fragen/f-171.xml" />
+			<xi:include href="fragen/f-172.xml" />
+			<xi:include href="fragen/f-173.xml" />
+			<xi:include href="fragen/f-174.xml" />
+			<xi:include href="fragen/f-175.xml" />
+			<xi:include href="fragen/f-176.xml" />
+			<xi:include href="fragen/f-177.xml" />
+		</section>
+		<section>
+			<title>3. Adjektiva</title>
+			<xi:include href="fragen/f-178.xml" />
+			<xi:include href="fragen/f-179.xml" />
+			<xi:include href="fragen/f-180.xml" />
+			<xi:include href="fragen/f-181.xml" />
+			<xi:include href="fragen/f-182.xml" />
+			<xi:include href="fragen/f-183.xml" />
+			<xi:include href="fragen/f-184.xml" />
+			<xi:include href="fragen/f-185.xml" />
+			<xi:include href="fragen/f-186.xml" />
+			<xi:include href="fragen/f-187.xml" />
+			<xi:include href="fragen/f-188.xml" />
+			<xi:include href="fragen/f-189.xml" />
+			<xi:include href="fragen/f-190.xml" />
+			<xi:include href="fragen/f-191.xml" />
+			<xi:include href="fragen/f-192.xml" />
+			<xi:include href="fragen/f-193.xml" />
+			<xi:include href="fragen/f-194.xml" />
+			<xi:include href="fragen/f-195.xml" />
+			<xi:include href="fragen/f-196.xml" />
+			<xi:include href="fragen/f-197.xml" />
+			<xi:include href="fragen/f-198.xml" />
+		</section>
+	</section>
+	<section>
+		<title>Komparativ und Superlativ</title>
+		<xi:include href="fragen/f-199.xml" />
+		<xi:include href="fragen/f-200.xml" />
+		<xi:include href="fragen/f-201.xml" />
+		<xi:include href="fragen/f-202.xml" />
+		<xi:include href="fragen/f-203.xml" />
+		<xi:include href="fragen/f-204.xml" />
+		<xi:include href="fragen/f-205.xml" />
+		<xi:include href="fragen/f-206.xml" />
+		<xi:include href="fragen/f-207.xml" />
+		<xi:include href="fragen/f-208.xml" />
+		<xi:include href="fragen/f-209.xml" />
+		<xi:include href="fragen/f-210.xml" />
+	</section>
+	<section>
+		<title>F. Zahlwörter</title>
+		<xi:include href="fragen/f-211.xml" />
+		<xi:include href="fragen/f-212.xml" />
+		<xi:include href="fragen/f-213.xml" />
+		<xi:include href="fragen/f-214.xml" />
+		<xi:include href="fragen/f-215.xml" />
+		<xi:include href="fragen/f-216.xml" />
+		<xi:include href="fragen/f-217.xml" />
+		<xi:include href="fragen/f-218.xml" />
+	</section>
+	<section>
+		<title>G. Pronomina.</title>
+		<section>
+			<title>1. Pronomina personalia, possessiva, reflexiva, reciprocum.</title>
+			<xi:include href="fragen/f-219.xml" />
+			<xi:include href="fragen/f-220.xml" />
+			<xi:include href="fragen/f-221.xml" />
+			<xi:include href="fragen/f-222.xml" />
+			<xi:include href="fragen/f-223.xml" />
+			<xi:include href="fragen/f-224.xml" />
+			<xi:include href="fragen/f-225.xml" />
+			<xi:include href="fragen/f-226.xml" />
+			<xi:include href="fragen/f-227.xml" />
+			<xi:include href="fragen/f-228.xml" />
+			<xi:include href="fragen/f-229.xml" />
+			<xi:include href="fragen/f-230.xml" />
+			<xi:include href="fragen/f-231.xml" />
+			<xi:include href="fragen/f-232.xml" />
+			<xi:include href="fragen/f-233.xml" />
+			<xi:include href="fragen/f-234.xml" />
+			<xi:include href="fragen/f-235.xml" />
+			<xi:include href="fragen/f-236.xml" />
+			<xi:include href="fragen/f-237.xml" />
+		</section>
+		<section>
+			<title>2. Pronomina demonstrativa.</title>
+			<xi:include href="fragen/f-238.xml" />
+			<xi:include href="fragen/f-239.xml" />
+			<xi:include href="fragen/f-240.xml" />
+			<xi:include href="fragen/f-241.xml" />
+			<xi:include href="fragen/f-242.xml" />
+			<xi:include href="fragen/f-243.xml" />
+			<xi:include href="fragen/f-244.xml" />
+		</section>
+		<section>
+			<title>3. Pronomina determinativa (is, idem, ipse).</title>
+			<xi:include href="fragen/f-245.xml" />
+			<xi:include href="fragen/f-246.xml" />
+			<xi:include href="fragen/f-247.xml" />
+			<xi:include href="fragen/f-248.xml" />
+			<xi:include href="fragen/f-249.xml" />
+			<xi:include href="fragen/f-250.xml" />
+			<xi:include href="fragen/f-251.xml" />
+			<xi:include href="fragen/f-252.xml" />
+			<xi:include href="fragen/f-253.xml" />
+			<xi:include href="fragen/f-254.xml" />
+			<xi:include href="fragen/f-255.xml" />
+			<xi:include href="fragen/f-256.xml" />
+			<xi:include href="fragen/f-257.xml" />
+		</section>
+		<section>
+			<title>4. Pronomen relativum.</title>
+			<xi:include href="fragen/f-258.xml" />
+			<xi:include href="fragen/f-259.xml" />
+			<xi:include href="fragen/f-260.xml" />
+			<xi:include href="fragen/f-261.xml" />
+			<xi:include href="fragen/f-262.xml" />
+			<xi:include href="fragen/f-263.xml" />
+			<xi:include href="fragen/f-264.xml" />
+			<xi:include href="fragen/f-265.xml" />
+			<xi:include href="fragen/f-266.xml" />
+			<xi:include href="fragen/f-267.xml" />
+		</section>
+		<section>
+			<title>5. Pronomina interrogativa.</title>
+			<xi:include href="fragen/f-268.xml" />
+			<xi:include href="fragen/f-269.xml" />
+			<xi:include href="fragen/f-270.xml" />
+			<xi:include href="fragen/f-271.xml" />
+			<xi:include href="fragen/f-272.xml" />
+			<xi:include href="fragen/f-273.xml" />
+		</section>
+		<section>
+			<title>6. Pronomina indefinita.</title>
+			<xi:include href="fragen/f-274.xml" />
+			<xi:include href="fragen/f-275.xml" />
+			<xi:include href="fragen/f-276.xml" />
+			<xi:include href="fragen/f-277.xml" />
+			<xi:include href="fragen/f-278.xml" />
+			<xi:include href="fragen/f-279.xml" />
+			<xi:include href="fragen/f-280.xml" />
+			<xi:include href="fragen/f-281.xml" />
+			<xi:include href="fragen/f-282.xml" />
+			<xi:include href="fragen/f-283.xml" />
+			<xi:include href="fragen/f-284.xml" />
+			<xi:include href="fragen/f-285.xml" />
+			<xi:include href="fragen/f-286.xml" />
+			<xi:include href="fragen/f-287.xml" />
+			<xi:include href="fragen/f-288.xml" />
+			<xi:include href="fragen/f-289.xml" />
+			<xi:include href="fragen/f-290.xml" />
+			<xi:include href="fragen/f-291.xml" />
+		</section>
+	</section>
+	<section>
+		<title>H. Das Verbum</title>
+		<section>
+			<title>1. Aktiv und Passiv. Gebrauch einzelner Verba und Verbformen.</title>
+			<xi:include href="fragen/f-292.xml" />
+			<xi:include href="fragen/f-293.xml" />
+			<xi:include href="fragen/f-294.xml" />
+			<xi:include href="fragen/f-295.xml" />
+			<xi:include href="fragen/f-296.xml" />
+			<xi:include href="fragen/f-297.xml" />
+			<xi:include href="fragen/f-298.xml" />
+			<xi:include href="fragen/f-299.xml" />
+			<xi:include href="fragen/f-300.xml" />
+			<xi:include href="fragen/f-301.xml" />
+			<xi:include href="fragen/f-302.xml" />
+			<xi:include href="fragen/f-303.xml" />
+			<xi:include href="fragen/f-304.xml" />
+			<xi:include href="fragen/f-305.xml" />
+			<xi:include href="fragen/f-306.xml" />
+			<xi:include href="fragen/f-307.xml" />
+			<xi:include href="fragen/f-308.xml" />
+			<xi:include href="fragen/f-309.xml" />
+			<xi:include href="fragen/f-310.xml" />
+			<xi:include href="fragen/f-311.xml" />
+			<xi:include href="fragen/f-312.xml" />
+			<xi:include href="fragen/f-313.xml" />
+		</section>
+		<section>
+			<title>2. Gebrauch der Tempora.</title>
+			<xi:include href="fragen/f-314.xml" />
+			<xi:include href="fragen/f-315.xml" />
+			<xi:include href="fragen/f-316.xml" />
+			<xi:include href="fragen/f-316b.xml" />
+			<xi:include href="fragen/f-317.xml" />
+			<xi:include href="fragen/f-318.xml" />
+			<xi:include href="fragen/f-319.xml" />
+			<xi:include href="fragen/f-320.xml" />
+			<xi:include href="fragen/f-321.xml" />
+			<xi:include href="fragen/f-322.xml" />
+			<xi:include href="fragen/f-323.xml" />
+			<xi:include href="fragen/f-324.xml" />
+			<xi:include href="fragen/f-325.xml" />
+			<xi:include href="fragen/f-326.xml" />
+		</section>
+		<section>
+			<title>3. Consecutio temporum.</title>
+			<xi:include href="fragen/f-327.xml" />
+			<xi:include href="fragen/f-328.xml" />
+			<xi:include href="fragen/f-328b.xml" />
+			<xi:include href="fragen/f-329.xml" />
+		</section>
+		<section>
+			<title>4. Modi des Verbums.</title>
+			<section>
+				<title>a) In Hauptsätzen.</title>
+				<xi:include href="fragen/f-330.xml" />
+				<xi:include href="fragen/f-331.xml" />
+				<xi:include href="fragen/f-332.xml" />
+				<xi:include href="fragen/f-333.xml" />
+				<xi:include href="fragen/f-334.xml" />
+				<xi:include href="fragen/f-335.xml" />
+				<xi:include href="fragen/f-336.xml" />
+				<xi:include href="fragen/f-337.xml" />
+				<xi:include href="fragen/f-338.xml" />
+			</section>
+			<section>
+				<title>b) Von den Modis in Nebensätzen.</title>
+				<section>
+					<title>α. Coniunctiones consecutivae und finales.</title>
+					<xi:include href="fragen/f-339.xml" />
+					<xi:include href="fragen/f-340.xml" />
+					<xi:include href="fragen/f-341.xml" />
+					<xi:include href="fragen/f-342.xml" />
+					<xi:include href="fragen/f-343.xml" />
+					<xi:include href="fragen/f-344.xml" />
+					<xi:include href="fragen/f-345.xml" />
+					<xi:include href="fragen/f-346.xml" />
+					<xi:include href="fragen/f-347.xml" />
+					<xi:include href="fragen/f-348.xml" />
+					<xi:include href="fragen/f-349.xml" />
+					<xi:include href="fragen/f-350.xml" />
+					<xi:include href="fragen/f-351.xml" />
+					<xi:include href="fragen/f-352.xml" />
+					<xi:include href="fragen/f-353.xml" />
+					<xi:include href="fragen/f-354.xml" />
+					<xi:include href="fragen/f-355.xml" />
+					<xi:include href="fragen/f-356.xml" />
+					<xi:include href="fragen/f-357.xml" />
+					<xi:include href="fragen/f-358.xml" />
+					<xi:include href="fragen/f-359.xml" />
+					<xi:include href="fragen/f-360.xml" />
+					<xi:include href="fragen/f-361.xml" />
+				</section>
+				<section>
+					<title>β. Die Konjunktion cum und die Coniunctiones temporales.</title>
+					<xi:include href="fragen/f-362.xml" />
+					<xi:include href="fragen/f-363.xml" />
+					<xi:include href="fragen/f-364.xml" />
+					<xi:include href="fragen/f-365.xml" />
+					<xi:include href="fragen/f-366.xml" />
+					<xi:include href="fragen/f-367.xml" />
+				</section>
+				<section>
+					<title>γ. Coniunctiones causales.</title>
+					<xi:include href="fragen/f-368.xml" />
+					<xi:include href="fragen/f-369.xml" />
+					<xi:include href="fragen/f-370.xml" />
+					<xi:include href="fragen/f-371.xml" />
+					<xi:include href="fragen/f-372.xml" />
+					<xi:include href="fragen/f-373.xml" />
+					<xi:include href="fragen/f-374.xml" />
+					<xi:include href="fragen/f-375.xml" />
+				</section>
+				<section>
+					<title>δ. Coniunctiones condicionales.</title>
+					<xi:include href="fragen/f-376.xml" />
+					<xi:include href="fragen/f-377.xml" />
+					<xi:include href="fragen/f-378.xml" />
+					<xi:include href="fragen/f-379.xml" />
+					<xi:include href="fragen/f-380.xml" />
+					<xi:include href="fragen/f-381.xml" />
+					<xi:include href="fragen/f-382.xml" />
+					<xi:include href="fragen/f-383.xml" />
+					<xi:include href="fragen/f-384.xml" />
+					<xi:include href="fragen/f-385.xml" />
+					<xi:include href="fragen/f-386.xml" />
+					<xi:include href="fragen/f-387.xml" />
+					<xi:include href="fragen/f-388.xml" />
+				</section>
+				<section>
+					<title>ε. Coniunctiones conessivae.</title>
+					<xi:include href="fragen/f-389.xml" />
+					<xi:include href="fragen/f-390.xml" />
+					<xi:include href="fragen/f-391.xml" />
+				</section>
+				<section>
+					<title>ζ. Coniunctiones comparativae</title>
+					<xi:include href="fragen/f-392.xml" />
+					<xi:include href="fragen/f-393.xml" />
+					<xi:include href="fragen/f-394.xml" />
+					<xi:include href="fragen/f-395.xml" />
+					<xi:include href="fragen/f-396.xml" />
+					<xi:include href="fragen/f-397.xml" />
+				</section>
+				<section>
+					<title>η. Modus in Relativsätzen.</title>
+					<xi:include href="fragen/f-398.xml" />
+					<xi:include href="fragen/f-399.xml" />
+					<xi:include href="fragen/f-400.xml" />
+					<xi:include href="fragen/f-401.xml" />
+				</section>
+				<section>
+					<title>θ. Anhang: Fragesätze</title>
+					<xi:include href="fragen/f-402.xml" />
+					<xi:include href="fragen/f-403.xml" />
+					<xi:include href="fragen/f-404.xml" />
+					<xi:include href="fragen/f-405.xml" />
+					<xi:include href="fragen/f-406.xml" />
+					<xi:include href="fragen/f-407.xml" />
+					<xi:include href="fragen/f-408.xml" />
+					<xi:include href="fragen/f-409.xml" />
+					<xi:include href="fragen/f-410.xml" />
+					<xi:include href="fragen/f-411.xml" />
+					<xi:include href="fragen/f-412.xml" />
+					<xi:include href="fragen/f-413.xml" />
+				</section>
+			</section>
+		</section>
+		<section>
+			<title>5. Die Participialien.</title>
+			<section>
+				<title>a. Der Infinitiv.</title>
+				<xi:include href="fragen/f-414.xml" />
+				<xi:include href="fragen/f-415.xml" />
+				<xi:include href="fragen/f-416.xml" />
+				<xi:include href="fragen/f-417.xml" />
+				<xi:include href="fragen/f-418.xml" />
+				<xi:include href="fragen/f-419.xml" />
+				<xi:include href="fragen/f-420.xml" />
+				<xi:include href="fragen/f-421.xml" />
+				<xi:include href="fragen/f-422.xml" />
+				<xi:include href="fragen/f-423.xml" />
+				<xi:include href="fragen/f-424.xml" />
+				<xi:include href="fragen/f-425.xml" />
+				<xi:include href="fragen/f-426.xml" />
+				<xi:include href="fragen/f-427.xml" />
+				<xi:include href="fragen/f-428.xml" />
+				<xi:include href="fragen/f-429.xml" />
+				<xi:include href="fragen/f-430.xml" />
+				<xi:include href="fragen/f-431.xml" />
+				<xi:include href="fragen/f-432.xml" />
+				<xi:include href="fragen/f-433.xml" />
+				<xi:include href="fragen/f-434.xml" />
+				<xi:include href="fragen/f-435.xml" />
+				<xi:include href="fragen/f-436.xml" />
+				<xi:include href="fragen/f-436b.xml" />
+				<xi:include href="fragen/f-437.xml" />
+				<xi:include href="fragen/f-438.xml" />
+			</section>
+			<section>
+				<title>b. Das Participium.</title>
+				<xi:include href="fragen/f-439.xml" />
+				<xi:include href="fragen/f-440.xml" />
+				<xi:include href="fragen/f-441.xml" />
+				<xi:include href="fragen/f-442.xml" />
+				<xi:include href="fragen/f-443.xml" />
+				<xi:include href="fragen/f-444.xml" />
+				<xi:include href="fragen/f-445.xml" />
+				<xi:include href="fragen/f-446.xml" />
+				<xi:include href="fragen/f-447.xml" />
+			</section>
+			<section>
+				<title>c. Das Gerundium und Gerundivum.</title>
+				<xi:include href="fragen/f-448.xml" />
+				<xi:include href="fragen/f-449.xml" />
+				<xi:include href="fragen/f-450.xml" />
+				<xi:include href="fragen/f-451.xml" />
+				<xi:include href="fragen/f-452.xml" />
+				<xi:include href="fragen/f-453.xml" />
+				<xi:include href="fragen/f-454.xml" />
+			</section>
+			<section>
+				<title>d. Das Supinum.</title>
+				<xi:include href="fragen/f-455.xml" />
+				<xi:include href="fragen/f-456.xml" />
+			</section>
+		</section>
+		<section>
+			<title>6. Oratio obliqua.</title>
+			<xi:include href="fragen/f-457.xml" />
+			<xi:include href="fragen/f-458.xml" />
+			<xi:include href="fragen/f-459.xml" />
+			<xi:include href="fragen/f-460.xml" />
+		</section>
+	</section>
+	<section>
+		<title>I. Adverbia</title>
+		<xi:include href="fragen/f-461.xml" />
+		<xi:include href="fragen/f-462.xml" />
+		<xi:include href="fragen/f-463.xml" />
+		<xi:include href="fragen/f-464.xml" />
+		<xi:include href="fragen/f-465.xml" />
+		<xi:include href="fragen/f-466.xml" />
+		<xi:include href="fragen/f-467.xml" />
+		<xi:include href="fragen/f-468.xml" />
+		<xi:include href="fragen/f-469.xml" />
+		<xi:include href="fragen/f-470.xml" />
+		<xi:include href="fragen/f-471.xml" />
+		<xi:include href="fragen/f-472.xml" />
+		<xi:include href="fragen/f-473.xml" />
+		<xi:include href="fragen/f-474.xml" />
+		<xi:include href="fragen/f-475.xml" />
+		<xi:include href="fragen/f-476.xml" />
+		<xi:include href="fragen/f-477.xml" />
+		<xi:include href="fragen/f-478.xml" />
+		<xi:include href="fragen/f-479.xml" />
+		<xi:include href="fragen/f-480.xml" />
+		<xi:include href="fragen/f-481.xml" />
+		<xi:include href="fragen/f-482.xml" />
+		<xi:include href="fragen/f-483.xml" />
+		<xi:include href="fragen/f-484.xml" />
+		<xi:include href="fragen/f-485.xml" />
+		<xi:include href="fragen/f-486.xml" />
+		<xi:include href="fragen/f-487.xml" />
+		<xi:include href="fragen/f-488.xml" />
+		<xi:include href="fragen/f-489.xml" />
+		<xi:include href="fragen/f-489b.xml" />
+		<xi:include href="fragen/f-490.xml" />
+		<xi:include href="fragen/f-491.xml" />
+		<xi:include href="fragen/f-492.xml" />
+		<xi:include href="fragen/f-493.xml" />
+		<xi:include href="fragen/f-494.xml" />
+		<xi:include href="fragen/f-495.xml" />
+		<xi:include href="fragen/f-496.xml" />
+		<xi:include href="fragen/f-497.xml" />
+		<xi:include href="fragen/f-498.xml" />
+	</section>
+	<section>
+		<title>K. Konjunktionen.</title>
+		<xi:include href="fragen/f-499.xml" />
+		<xi:include href="fragen/f-500.xml" />
+		<xi:include href="fragen/f-501.xml" />
+		<xi:include href="fragen/f-502.xml" />
+		<xi:include href="fragen/f-503.xml" />
+		<xi:include href="fragen/f-504.xml" />
+		<xi:include href="fragen/f-505.xml" />
+		<xi:include href="fragen/f-506.xml" />
+		<xi:include href="fragen/f-507.xml" />
+		<xi:include href="fragen/f-508.xml" />
+		<xi:include href="fragen/f-509.xml" />
+		<xi:include href="fragen/f-510.xml" />
+		<xi:include href="fragen/f-511.xml" />
+		<xi:include href="fragen/f-512.xml" />
+		<xi:include href="fragen/f-513.xml" />
+		<xi:include href="fragen/f-514.xml" />
+		<xi:include href="fragen/f-515.xml" />
+		<xi:include href="fragen/f-516.xml" />
+		<xi:include href="fragen/f-517.xml" />
+		<xi:include href="fragen/f-518.xml" />
+		<xi:include href="fragen/f-519.xml" />
+		<xi:include href="fragen/f-520.xml" />
+		<xi:include href="fragen/f-521.xml" />
+		<xi:include href="fragen/f-522.xml" />
+		<xi:include href="fragen/f-523.xml" />
+		<xi:include href="fragen/f-524.xml" />
+		<xi:include href="fragen/f-525.xml" />
+		<xi:include href="fragen/f-526.xml" />
+		<xi:include href="fragen/f-527.xml" />
+		<xi:include href="fragen/f-528.xml" />
+		<xi:include href="fragen/f-529.xml" />
+		<xi:include href="fragen/f-530.xml" />
+		<xi:include href="fragen/f-531.xml" />
+		<xi:include href="fragen/f-532.xml" />
+		<xi:include href="fragen/f-533.xml" />
+		<xi:include href="fragen/f-534.xml" />
+	</section>
+	<section>
+		<title>L. Lehre von der Wortstellung, dem Periodenbau, von den Tropen und Figuren.</title>
+		<xi:include href="fragen/f-535.xml" />
+		<xi:include href="fragen/f-536.xml" />
+		<xi:include href="fragen/f-537.xml" />
+		<xi:include href="fragen/f-538.xml" />
+		<xi:include href="fragen/f-539.xml" />
+		<xi:include href="fragen/f-540.xml" />
+		<xi:include href="fragen/f-541.xml" />
+		<xi:include href="fragen/f-542.xml" />
+		<xi:include href="fragen/f-543.xml" />
+		<xi:include href="fragen/f-544.xml" />
+		<xi:include href="fragen/f-545.xml" />
+		<xi:include href="fragen/f-546.xml" />
+		<xi:include href="fragen/f-547.xml" />
+		<xi:include href="fragen/f-548.xml" />
+		<xi:include href="fragen/f-549.xml" />
+		<xi:include href="fragen/f-550.xml" />
+		<xi:include href="fragen/f-551.xml" />
+	</section>
+</chapter>

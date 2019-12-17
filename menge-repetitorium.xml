@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns="http://docbook.org/ns/docbook"
+      xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0" lang="de">
+	<title>Repetitorium der lateinischen Syntax und Stilistik</title>
+	<titleabbrev>Repetitorium</titleabbrev>
+	<subtitle>Ein Lernbuch für Studierende und vorgeschrittene Schüler, zugleich ein praktisches Repetitorium für Lehrer</subtitle>
+	<info>
+		<author>
+			<personname>
+				<firstname>Hermann</firstname>
+				<surname>Menge</surname>
+			</personname>
+		</author>
+		<publisher>
+			<publishername>Verlag von Julius Zwißler</publishername>
+			<address>
+				<city>Wolfenbüttel</city>
+			</address>
+      </publisher>
+      <date>1900</date>
+	</info>
+	<xi:include href="1-vorwort.xml" />
+	<xi:include href="2-fragen.xml" />
+	<!-- <xi:include href="3-antworten.xml" /> -->
+	<!-- appendix <xi:include href="4-anhang.xml" /> -->
+	<!-- glossary -->
+</book>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<style>
+	body {
+		padding: 2em;
+		font-family: "Fantasque Sans Mono", "Source Sans Pro", sans-serif;
+		font-size: 14pt;
+		background: #f9f7f3;
+		color: #3a4055;
+		/* colors taken from: https://chriskempson.github.io/base16/#railscasts */
+		width: 35em;
+		margin: 2em auto;
+		
+	}
+	
+	h3.title {
+		margin-top: 3em;
+		text-align: center;
+		border-bottom: 3px solid;
+		padding: 0.5em 0;
+		background: #f4f1ed;
+		background: linear-gradient(to bottom, #f9f7f3 60%,#f4f1ed 100%);
+	}
+	
+	h3.title:hover {
+		background: #f4f1ed;
+	}
+	
+	.section p {
+		text-align: justify;
+		line-height: 1.5em;
+	}
+	
+	.section p em {
+		font-style: normal;
+	}
+
+	.section p .formalpara-title {
+		font-size: 1.5em;
+		color: #6d9cbe;
+	}
+
+	.section p .foreignphrase em {
+		/* font-family: Crimson, "Linux Libertine O", "Arno Pro", serif;
+		font-size: 107%; */
+		color: #da4939;
+		font-style: italic;
+	}
+	
+	.section p .emphasis {
+		border-bottom: 0.2em solid #d4cfc9;
+	}
+	
+	.section .foreignphrase .emphasis em {
+		font-style: italic;
+	}
+</style>
