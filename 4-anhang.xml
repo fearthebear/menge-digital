@@ -1,5 +1,35 @@
+<appendix xmlns="http://docbook.org/ns/docbook"
+      xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0">
+	<title>Anhang</title>
+	<subtitle>
+		Einige Regeln für die Abfassung lateinischer Aufsätze.<footnote><para>Mit besonderer Benutzung von Seyfferts <foreignphrase lang="la">Scholae Latinae</foreignphrase>, Capelles und Hempels Anleitung zum lateinischen Aufsatz, Balbulas lateinische Aufsätze, Hoffmans Rhetorik für Gymnasien.</para></footnote>
+	</subtitle>
+	<orderedlist>
+		<listitem>
+			<para>
+				Jede Abhandlung (<foreignphrase lang="la">dissertatio</foreignphrase>, Chrie (<foreignphrase lang="la">chria</foreignphrase>) oder Rede (<foreignphrase lang="la">oratio</foreignphrase>) besteht in der Regel aus drei Hauptteilen (<emphasis>konstanten</emphasis> Teilen):
+				<orderedlist>
+					<listitem>
+						<para><emphasis>Einleitung</emphasis> (<foreignphrase lang="la">Exordium, Prooemium, Introitus</foreignphrase>)</para>
+					</listitem>
+					<listitem>
+						<para><emphasis>Ausführung</emphasis> oder Abhandlung (<foreignphrase lang="la">Tractatio</foreignphrase>), zu welcher die <emphasis>Beweisführung</emphasis> (<foreignphrase lang="la">Argumentatio</foreignphrase>) gehört;</para>
+					</listitem>
+					<listitem>
+						<para><emphasis>Schluß</emphasis> (<foreignphrase lang="la">Conclusio</foreignphrase>).</para>
+					</listitem>
+				</orderedlist>
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+			 	Die <emphasis>Einleitung</emphasis> (<foreignphrase lang="la">Exordium</foreignphrase>), welche auf den Gegenstand der Abhandlung vorbereiten und zu ihm hinführen soll, muß kurz und präzise sein, das Interesse des Lesers oder Hörers für den zu behandelnden Gegenstand erwecken und am Schlusse das Thema selbst in derjenigen Form ankündigen, in welcher es als Grundlage der Abhandlung dienen soll (<foreignphrase lang="la">Propositio</foreignphrase>, d.h. Feststellung des Gegenstandes).
+			 </para>
+		</listitem>
+	</orderedlist>
+</appendix>
 <!-- Anhang «
-Einige Regeln für die Abfassung lateinischer Umsatzes-)
+-)
 1. Jede Abhandlung (diesertatio), Chrie (chria) oder Rede (oratio) besteht in der
 
 Regel aus drei Hauptteilen (konftanten Teilen):

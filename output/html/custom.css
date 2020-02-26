@@ -24,12 +24,12 @@
 		background: #f4f1ed;
 	}
 	
-	.section p {
+	.section p, .appendix p {
 		text-align: justify;
 		line-height: 1.5em;
 	}
 	
-	.section p em {
+	.section p em, .appendix p em {
 		font-style: normal;
 	}
 
@@ -38,17 +38,17 @@
 		color: #6d9cbe;
 	}
 
-	.section p .foreignphrase em {
+	.section p .foreignphrase em, .appendix p .foreignphrase em {
 		/* font-family: Crimson, "Linux Libertine O", "Arno Pro", serif;
 		font-size: 107%; */
 		color: #da4939;
 		font-style: italic;
 	}
 	
-	.section p .emphasis {
+	.section p .emphasis, .appendix p .emphasis {
 		border-bottom: 0.2em solid #d4cfc9;
 	}
 	
-	.section .foreignphrase .emphasis em {
+	.section .foreignphrase .emphasis em, .appendix .foreignphrase .emphasis em {
 		font-style: italic;
 	}
