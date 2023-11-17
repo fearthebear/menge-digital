@@ -1,4 +1,9 @@
 <formalpara xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0">
 	<title>204</title>
-	<para>Welcher Unterschied ist zwischen 1) plures und complures; 2) plurimi und plerz'que; 3) roter-i und reliqui?</para>
+	<para>
+		Welcher Unterschied ist zwischen
+		1) <foreignphrase lang="la">plures</foreignphrase> und <foreignphrase lang="la">complures</foreignphrase>;
+		2) <foreignphrase lang="la">plurimi</foreignphrase> und <foreignphrase lang="la">plerique</foreignphrase>;
+		3) <foreignphrase lang="la">ceteri</foreignphrase> und <foreignphrase lang="la">reliqui</foreignphrase>?
+	</para>
 </formalpara>
