@@ -1,4 +1,7 @@
 <formalpara xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0">
 	<title>215</title>
-	<para>Welcher Unterschied ist: 1) zwischen duo, ambo und roterque; 2) zwischen secundus und alter?</para>
+	<para>
+		Welcher Unterschied ist:
+		1) zwischen <foreignphrase lang="la"><emphasis>duo</emphasis></foreignphrase>, <foreignphrase lang="la"><emphasis>ambo</emphasis></foreignphrase> und <foreignphrase lang="la"><emphasis>uterque</emphasis></foreignphrase>; 2) zwischen <foreignphrase lang="la"><emphasis>secundus</emphasis></foreignphrase> und <foreignphrase lang="la"><emphasis>alter</emphasis></foreignphrase>?
+		</para>
 </formalpara>
